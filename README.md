@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+<h1> 👋 Hi, I’m <@1112716745497653388></h1>
+  
+<h1> ❔ About </h1>
+  <p> 🏷️ My name is Arda </p>
+  <p> 🏷️ I am roblox game developer</p>
+  <p> 🏷️ I live in Turkey </p>
 
-<!--
-**puguner/puguner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://lanyard-profile-readme.vercel.app/api/1112716745497653388?hideDiscrim=true" />
 
-Here are some ideas to get you started:
+<h1> 📈 My stats </h1>
+<img src="https://github-readme-stats.vercel.app/api?username=puguner&show_icons=true&theme=dark" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> 💎 My achievements </h1>
+<img src="https://github-profile-trophy.vercel.app/?username=puguner&theme=onedark" />
